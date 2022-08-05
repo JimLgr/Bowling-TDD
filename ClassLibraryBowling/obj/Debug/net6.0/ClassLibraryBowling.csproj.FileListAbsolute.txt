@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\Bowling\ClassLibraryBowling\bin\Debug\net6.0\ClassLibraryBowling.deps.json
+C:\Users\pc\source\repos\Bowling\ClassLibraryBowling\bin\Debug\net6.0\ClassLibraryBowling.dll
+C:\Users\pc\source\repos\Bowling\ClassLibraryBowling\bin\Debug\net6.0\ClassLibraryBowling.pdb
+C:\Users\pc\source\repos\Bowling\ClassLibraryBowling\obj\Debug\net6.0\ClassLibraryBowling.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Bowling\ClassLibraryBowling\obj\Debug\net6.0\ClassLibraryBowling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Bowling\ClassLibraryBowling\obj\Debug\net6.0\ClassLibraryBowling.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Bowling\ClassLibraryBowling\obj\Debug\net6.0\ClassLibraryBowling.AssemblyInfo.cs
+C:\Users\pc\source\repos\Bowling\ClassLibraryBowling\obj\Debug\net6.0\ClassLibraryBowling.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Bowling\ClassLibraryBowling\obj\Debug\net6.0\ClassLibraryBowling.dll
+C:\Users\pc\source\repos\Bowling\ClassLibraryBowling\obj\Debug\net6.0\refint\ClassLibraryBowling.dll
+C:\Users\pc\source\repos\Bowling\ClassLibraryBowling\obj\Debug\net6.0\ClassLibraryBowling.pdb
+C:\Users\pc\source\repos\Bowling\ClassLibraryBowling\obj\Debug\net6.0\ref\ClassLibraryBowling.dll
